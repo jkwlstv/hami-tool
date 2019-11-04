@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-crypto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-list" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-map" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hami-tool-str" charset="UTF-8" />
+  </component>
+</project>

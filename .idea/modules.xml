@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-all/hami-tool-all.iml" filepath="$PROJECT_DIR$/hami-tool-all/hami-tool-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-core/hami-tool-core.iml" filepath="$PROJECT_DIR$/hami-tool-core/hami-tool-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-crypto/hami-tool-crypto.iml" filepath="$PROJECT_DIR$/hami-tool-crypto/hami-tool-crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-http/hami-tool-http.iml" filepath="$PROJECT_DIR$/hami-tool-http/hami-tool-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-json/hami-tool-json.iml" filepath="$PROJECT_DIR$/hami-tool-json/hami-tool-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-list/hami-tool-list.iml" filepath="$PROJECT_DIR$/hami-tool-list/hami-tool-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-map/hami-tool-map.iml" filepath="$PROJECT_DIR$/hami-tool-map/hami-tool-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hami-tool-str/hami-tool-str.iml" filepath="$PROJECT_DIR$/hami-tool-str/hami-tool-str.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tool.iml" filepath="$PROJECT_DIR$/tool.iml" />
+    </modules>
+  </component>
+</project>
